@@ -11,6 +11,6 @@ O Javascript permite que a gente "proteja" uma variável de alguma alteração u
 
 Usa-se o `let` quando você realmente precisa trocar o valor de uma variável. Do contrário, usa-se `const` sempre.
 
+> Se você criar uma variável sem as palavras `var`, `let` ou `const`, o **Javascript** atribui automáticamente a palavra de criação `var`.
+
 ---
-
-
