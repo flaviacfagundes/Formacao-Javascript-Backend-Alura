@@ -1,0 +1,12 @@
+
+GUIA
+    https://techguide.sh/pt-BR/path/nodejs/
+
+ARTIGO
+    https://www.alura.com.br/artigos/javascript
+
+LIVRO
+    https://www.casadocodigo.com.br/products/livro-primeiros-passos-node
+
+LIVRO
+    https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/
